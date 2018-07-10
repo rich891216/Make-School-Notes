@@ -1,3 +1,4 @@
 # Make School Notes
-notes app
+Add a more detailed README
+
 
